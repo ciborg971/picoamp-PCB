@@ -1,0 +1,23 @@
+Component Count:,36,,,,,,,,
+,,,,,,,,,
+Collated Components:,,,,,,,,,
+,,,,,,,,,
+Item,Qty,Reference(s),Value,Footprint,DNP,DIGIKEY,LCSC,Manufacturer_Part_Number,Mouser Part Number
+1,2,"C1, C2",10uF,Capacitor_SMD:C_0603_1608Metric,,,C909848,,
+2,2,"C3, C4",0.1uF,Capacitor_SMD:C_0402_1005Metric,,,C60474,,
+3,2,"C5, C6",15pF,Capacitor_SMD:C_0201_0603Metric,,,C85891,,
+4,2,"C7, C8",1uF,Capacitor_SMD:C_0402_1005Metric,,,C14445,,
+5,10,"C12, C14, C15, C17, C19, C20, C21, C22, C23, C24",100n,Capacitor_SMD:C_0201_0603Metric,,,C76934,,
+6,2,"C16, C18",1u,Capacitor_SMD:C_0402_1005Metric,,,C14445,,
+7,2,"IC1, IC2",MAX98360AEFB+T,SamacSys_Parts:MAX98360AEFB,,175-MAX98360AEFB+TDKR-ND,,MAX98360AEFB+T,700-MAX98360AEFB+T
+8,1,IC3,W25Q16JVUXIQ_TR,SamacSys_Parts:SON50P300X200X60-9N,,256-W25Q16JVUXIQTRDKR-ND,C2843335,W25Q16JVUXIQ TR,454-W25Q16JVUXIQTR
+9,1,J1,Conn_01x04_Pin,Connector_PinHeader_2.00mm:PinHeader_1x04_P2.00mm_Horizontal,DNP,,,,
+10,1,J3,TYPE-C-31-M-12,footprint:HRO_TYPE-C-31-M-12,,,C165948,,
+11,1,R1,1K,Resistor_SMD:R_0402_1005Metric,,,C11702,,
+12,2,"R2, R3",27R,Resistor_SMD:R_0201_0603Metric,,,C100168,,
+13,1,R4,1k,Resistor_SMD:R_0201_0603Metric,,,C138165,,
+14,2,"R5, R6",5K1,Resistor_SMD:R_0201_0603Metric,,,C274341,,
+15,2,"TP1, TP2",TestPoint,TestPoint:TestPoint_Pad_1.0x1.0mm,DNP,,,,
+16,1,U1,RP2040,Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,,2648-SC0914(13)DKR-ND,,,
+17,1,U2,MIC5317-3.3xM5,Package_DFN_QFN:UDFN-4-1EP_1x1mm_P0.65mm_EP0.48x0.48mm,,MIC5317-3.3YM5-DKR-ND,,,
+18,1,Y1,Crystal_GND24,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,,,C5765982,,
